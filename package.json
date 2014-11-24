@@ -1,0 +1,22 @@
+{
+  "name": "ziggy-jeffersons",
+  "version": "1.0.0",
+  "description": "Movin' on up!",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:olivierrr/ziggy-jeffersons.git"
+  },
+  "keywords": [
+    "ziggy",
+    "plugin",
+    "irc",
+    "jeffersons"
+  ],
+  "author": "olivierrr",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/olivierrr/ziggy-jeffersons/issues"
+  },
+  "homepage": "https://github.com/olivierrr/ziggy-jeffersons"
+}
